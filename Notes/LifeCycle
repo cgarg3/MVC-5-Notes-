@@ -1,0 +1,1 @@
+Routing -> Controller Initialisation -> Action Execution -> Result Execution -> view engine -> result execution (HTTP Response) -> User (HTTP Request) -> Routing
