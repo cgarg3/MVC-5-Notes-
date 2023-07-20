@@ -1,0 +1,22 @@
+Application and Session Events
+
+1. Application_Init
+2. Application_Disposed
+3. Application_Error
+4. Application_Start
+5. Application_End
+6. Application_BeginRequest
+7. Application_EndRequest
+8. Application_PreRequestHandlerExecute
+9. Application_PostRequestHandlerExecute
+10. Application_PreSendRequestRequestHeaders
+11. Application_PreSendContent
+12. Application_AcquireRequestState
+13. Application_ReleaseRequestState
+14. Application_ResolveRequestCache
+15. Application_UpdateRequestCache
+16. Application_AuthenticateRequest
+17. Application_AuthorizeRequest
+18. Session_Start
+19. Session_End
+
